@@ -1,0 +1,86 @@
+body {
+	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #000000;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklhF_Vv1gQunyYWlS-rHcAiTOJqNTTIOGWDMf2cGNQkIfvj8slf6CIVxPwihRVfjqn6s&usqp=CAU);
+}
+
+h1,h2 {
+	font-family: Georgia;
+}
+
+h1 {
+	border-bottom: 3px solid #9e3333;
+	background-color: #ffffff;
+	color: #1f1d29;
+	padding: 5px;
+}
+
+h2 {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #DDD;
+	padding-left: 5px;
+	margin: 0 0 0 -15px;
+	font-weight: normal;
+}
+
+.secao {
+	background-color: #a489e4bd;
+	padding-left: 15px;
+}
+
+label {
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+
+
+a {
+	text-decoration:none;
+	color: rgb(91, 196, 161);
+}
+
+
+#menu {
+	margin: 0;
+}
+
+#menu ul, #menu li {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu .ativo {
+	background-color: #3bb1a1;
+}
+
+.vcard {
+	padding: 5px;
+}
+
+.url, .email {
+	display: block;
+}
+
+.photo {
+	float: right;
+	margin-right: 20%;
+	border-radius: 20%;
+}
+
+#footnote {
+	border-top: 1px dashed #ffffff;
+	padding: 5px;
+	font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+
+}
+
+#footnote li {
+	list-style-type: none;
+	margin-top: 3px;
+	color: rgb(87, 3, 3);
+}
+
